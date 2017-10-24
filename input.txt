@@ -1,0 +1,15 @@
+Date: 01/01/2017
+Entity: Amazon.in
+DIP: 100
+Buy: 10
+DIP: 110
+Sell: 7
+Closing: 100
+
+Date: 02/02/2017
+Entity: Facebook.com
+DIP: 200
+Buy: 5
+DIP: 190
+Sell: 5
+Closing: 200
